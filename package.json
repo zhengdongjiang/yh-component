@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "yh基于ante封装的组件",
   "private": true,
-  "main": "dist/build.js",
+  "main": "./dist/bundle.js",
   "scripts": {
     "build": "webpack",
     "watch": "webpack --watch",
